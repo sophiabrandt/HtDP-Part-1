@@ -1,0 +1,1 @@
+Notes and solutions for [How to Code: Systematic Program Design - Part 1](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x).
